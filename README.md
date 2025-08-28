@@ -9,7 +9,7 @@
   <a href="https://github.com/Leticia-maria?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Leticia-maria"/>
   </a>
-  <a href="mailto:leticiam@andrew.cmu.edu?subject=Hello%20Leticia,%20From%20Github">
+  <a href="mailto:moisesinho_ra@hotmail.com?subject=Hello%20Leticia,%20From%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://calendly.com/leticiapequeno30/30min">
@@ -20,6 +20,7 @@
 <div align=left>
 <!--   <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" /> -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
+
 <!--   <img alt="Rust" src="https://img.shields.io/badge/-Rust-DD0031?style=for-the-badge&logo=rust&logoColor=white" /> -->
 <!--   <img alt="Latex" src="https://img.shields.io/badge/-Latex-2F4F4F?style=for-the-badge&logo=latex&logoColor=white" /> -->
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
